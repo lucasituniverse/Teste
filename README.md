@@ -1,2 +1,2 @@
-#Repositorio remoto
+#Repositorio local
 Descrição inserida depois do clone
